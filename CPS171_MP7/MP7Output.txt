@@ -1,0 +1,10 @@
+NAME         DIFFICULTY            SORTED SCORES                POINTS
+Anne    		2		8	8.5	8.5	8.5	9	9	9	9.5	9.5		124
+Sarah   		1.6		7	7.5	8	8	8	8.5	8.5	8.5	9		91.2
+Deborah 		2.3		9	9	9.5	9.5	9.5	9.5	9.5	10	10		152.95
+Kathryn 		2.4		8	8.5	9	9	9	9	9.5	9.5	9.5		152.4
+Martha  		2.7		8.5	8.5	8.5	8.5	9	9	9	9.5	9.5		167.4
+Elizabeth		2.9		7.5	7.5	8	8	8	8	8.5	8.5	8.5		163.85
+Tina    		2.5		8.5	8.5	8.5	8.5	8.5	8.5	8.5	8.5	8.5		148.75
+
+Martha WINS WITH A SCORE OF 167.4! CONGRATULATIONS!
